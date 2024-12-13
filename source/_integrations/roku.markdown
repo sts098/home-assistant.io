@@ -307,6 +307,9 @@ Content IDs are unique to each streaming service and vary in format but are ofte
 
 Roku has been known to remove or restrict local control functionality as part of major Roku OS upgrades. As such devices may become less functional after an upgrade.
 
+*Later Roku OS devices must be set to allow access from the local network
+On Roku, Navigate menu to mobile app network access.  < Settings / System / Advanced System Settings / Control by Mobile Apps / Network Access > Enable Permissive access.  
+
 Roku channels, such as YouTube, are maintained by third-parties and as such the availability of features like Content Deeplinking are subject to change without notice.
 
 ## Removing the integration
